@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered SEO Content Production Research
 
 ## Overview
@@ -83,3 +84,6 @@ AI is not replacing SEO, but transforming how content is produced and scaled.
 The most effective approach combines:
 - AI for speed and scale
 - human expertise for strategy and quality
+=======
+# AI-powered-SEO-content-production
+>>>>>>> 1a0b01492f2e27796c78c737b533b47c0439b8b6
